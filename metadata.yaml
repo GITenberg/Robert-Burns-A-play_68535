@@ -1,5 +1,8 @@
 _repo: Robert-Burns-A-play_68535
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68535-h/images/cover.jpg
 creator:
   author:
     agent_name: Drinkwater, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1820
     wikipedia: https://en.wikipedia.org/wiki/John_Drinkwater_(playwright)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68535#Robert-Burns-A-play
 gutenberg_issued: '2022-07-16'
 identifiers:
   gutenberg: '68535'
